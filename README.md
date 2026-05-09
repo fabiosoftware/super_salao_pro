@@ -17,3 +17,6 @@ samples, guidance on mobile development, and a full API reference.
 ## Imagens do aplicativo
 
 ![Dashboard](https://github.com/fabiosoftware/super_salao_pro/blob/main/flutter_01.png)
+![Agenda](https://github.com/fabiosoftware/super_salao_pro/blob/main/flutter_02.png)
+
+![Clientes](https://github.com/fabiosoftware/super_salao_pro/blob/main/flutter_03.png)
